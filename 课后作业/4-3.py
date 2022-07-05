@@ -1,6 +1,6 @@
-name = input("")
-while name != "":
-    print("你好，", name)
-    name = input("你家还有谁？（直接按回车结束）")
-
-print("程序结束")
+i = 1
+sum = 0
+while sum <= 100:
+    sum += i
+    print("前", i, "项之和：", sum)
+    i += 1
