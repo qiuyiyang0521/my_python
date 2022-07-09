@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-# @Author: Administrator
-# @Date:   2022-07-07 09:09:37
-# @Last Modified by:   Administrator
-# @Last Modified time: 2022-07-09 10:27:21
+# @Author: qiuyiyang
+# @Date: 2022-07-07 09:09:37
+# @Email: 22133090041@qq.com
+# @Last_modified_by: qiuyiyang
+# @Last_modified_time: 2022-07-09 16:04:16
 import turtle as t
 t.hideturtle()
 t.speed(10)
@@ -33,4 +34,5 @@ t.goto(-150, -70)
 t.down()
 t.goto(0, -170)
 t.goto(-150 + 300, -70)
+t.penup()
 t.done()
