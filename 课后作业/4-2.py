@@ -1,3 +1,15 @@
+# -*- coding: utf-8 -*-
+# @Author: qiuyiyang
+# @Date: 2022-07-05 15:24:34
+# @Email: 22133090041@qq.com
+# @Last_modified_by: qiuyiyang
+# @Last_modified_time: 2022-07-09 12:03:54
+import os
+
+
+os.system("pause")
+
+
 import turtle
 turtle.bgcolor("black")
 t=turtle.Pen()
@@ -10,4 +22,5 @@ for x in range(num):
     t.circle(50)
     t.left(360 // num)
     
+
 print("绘制结束")

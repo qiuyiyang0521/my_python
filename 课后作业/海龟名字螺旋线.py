@@ -1,6 +1,13 @@
-#--coding:utf-8--
-import turtle as t  #导入模块
-t.bgcolor("black")
+# -*- coding: utf-8 -*-
+# @Author: qiuyiyang
+# @Date: 2022-07-03 09:20:38
+# @Email: 22133090041@qq.com
+# @Last_modified_by: qiuyiyang
+# @Last_modified_time: 2022-07-09 12:04:58
+
+import turtle #导入模块
+t = turtle.Pen
+turtle.bgcolor("black")
 t.speed(0)
 your_name = t.textinput("输入你的名字", "你叫什么名字？")
 sides = int(t.numinput("边数", "你想要绘制几条边的螺旋线？", 4, 3, 8))
