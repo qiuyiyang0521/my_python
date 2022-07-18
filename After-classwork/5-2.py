@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: qiuyiyang
-# @Date: 2022-07-09 16:04:42
-# @Email: 22133090041@qq.com
-# @Last_modified_by: qiuyiyang
-# @Last_modified_time: 2022-07-09 16:15:09
-
 '''
 如果身高超过140cm应该买成人票，
 如果身高在120cm到140cm之间买儿童票，

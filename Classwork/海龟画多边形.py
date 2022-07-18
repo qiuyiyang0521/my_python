@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: Administrator
-# @Date:   2022-07-07 16:05:59
-# @Last Modified by:   Administrator
-# @Last Modified time: 2022-07-09 10:27:20
 import turtle as t
 a = eval(input('边数'))
 t.speed(0)

@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: qiuyiyang
-# @Date: 2022-07-06 11:45:35
-# @Email: 22133090041@qq.com
-# @Last_modified_by: qiuyiyang
-# @Last_modified_time: 2022-07-09 12:03:56
-import os
-
-
-os.system("pause")
-
 import turtle as t
 t.bgcolor("black")
 t.speed(0)
