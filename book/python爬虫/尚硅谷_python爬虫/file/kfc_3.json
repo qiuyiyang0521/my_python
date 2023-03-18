@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 121
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 21,
+      "storeName": "通州金沙",
+      "addressDetail": "通州区金沙镇建设南路18号大润发卖场一层",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 22,
+      "storeName": "海安明珠",
+      "addressDetail": "中坝南路1号明珠城",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 23,
+      "storeName": "启东公园",
+      "addressDetail": "公园路545号",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 24,
+      "storeName": "海安中大街",
+      "addressDetail": "中大街26号利群时代超市一层",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 25,
+      "storeName": "如东城区",
+      "addressDetail": "掘港镇老城区青园北路19号如东文峰大世界内",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 26,
+      "storeName": "如皋长江",
+      "addressDetail": "长江镇长江中路6号文峰大世界一楼肯德基",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 27,
+      "storeName": "吕四",
+      "addressDetail": "吕四港镇环城北路272号吕四宾馆楼下",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 28,
+      "storeName": "南通圆融",
+      "addressDetail": "青年东路与工农路交接处圆融广场负一楼",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 29,
+      "storeName": "南通北大街",
+      "addressDetail": "北大街108号（大润发超市一层）",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 30,
+      "storeName": "南通平潮",
+      "addressDetail": "平潮镇建设路137号肯德基",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,手机点餐",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    }
+  ]
+}

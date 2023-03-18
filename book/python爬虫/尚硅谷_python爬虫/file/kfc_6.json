@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 121
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 51,
+      "storeName": "南通万象城",
+      "addressDetail": "港闸区北大街111号L337号商铺",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 52,
+      "storeName": "启东吾悦",
+      "addressDetail": "汇龙镇建设南路8号新城吾悦广场1028、2029-2号",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 53,
+      "storeName": "华融和生",
+      "addressDetail": "川姜镇川叠路1555号华融和生商业广场1层",
+      "pro": "Wi-Fi,点唱机,手机点餐",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 54,
+      "storeName": "南通唐闸",
+      "addressDetail": "港闸区唐闸镇兴隆街2-1号一楼、二楼",
+      "pro": "24小时,Wi-Fi,点唱机",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 55,
+      "storeName": "如东时代广场",
+      "addressDetail": "掘港镇海花路186号如东时代生活广场一楼肯德基",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 56,
+      "storeName": "南通兴东机场",
+      "addressDetail": "通州区兴东街道南通兴东机场CFDT-2区域",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 57,
+      "storeName": "南通青创园",
+      "addressDetail": "崇川路79号南通国际青创园4号楼一层",
+      "pro": "24小时,Wi-Fi,点唱机",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 58,
+      "storeName": "启东海上餐厅",
+      "addressDetail": "恒大海上威尼斯6-4幢",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 59,
+      "storeName": "圆融堤调",
+      "addressDetail": "永怡路111号南通堤调商业中心A1楼一层铺位号101",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 60,
+      "storeName": "吕四欣乐城",
+      "addressDetail": "吕四港镇鹤城南路29号欣乐鹤城苑D区，幸福蓝海影城旁",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    }
+  ]
+}

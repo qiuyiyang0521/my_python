@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 121
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 71,
+      "storeName": "南通中南时代悦城",
+      "addressDetail": "观畅路38号悦汇园28幢时代悦城店负一层B1025-B1026号",
+      "pro": "24小时,Wi-Fi,点唱机",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 72,
+      "storeName": "南通玖玖广场",
+      "addressDetail": "工农北路9号玖玖广场6号楼一楼肯德基",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 73,
+      "storeName": "曲塘香溢花城",
+      "addressDetail": "33、135曲塘镇中心南街88号香溢花城20号楼一层铺位编号130、131、132、1",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 74,
+      "storeName": "如皋中交美庐",
+      "addressDetail": "城北街道如意新村中交美庐天地1幢一层",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 75,
+      "storeName": "南通中南时代悦城",
+      "addressDetail": "观畅路38号悦汇园28幢时代悦城店负一层B1025-B1026号",
+      "pro": "24小时,Wi-Fi,点唱机",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 76,
+      "storeName": "海门江海明珠",
+      "addressDetail": "江海中路337号海门大有境江海明珠店商业L1008号",
+      "pro": "Wi-Fi,点唱机",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 77,
+      "storeName": "启东文峰",
+      "addressDetail": "汇龙镇人民中路650号“启东文峰大世界”一层003号、C01号、C02号",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 78,
+      "storeName": "南通紫琅",
+      "addressDetail": "崇州大道60号紫琅科技城7幢1F-01",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 79,
+      "storeName": "长江金雅",
+      "addressDetail": "长江镇恒水路2号“金雅名都荟商业广场”4-101",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 80,
+      "storeName": "长江金雅",
+      "addressDetail": "长江镇恒水路2号“金雅名都荟商业广场”4-101",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 121
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 1,
+      "storeName": "海门时代",
+      "addressDetail": "解放中路309号北贵都之星利群时代一层肯德基餐厅",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 2,
+      "storeName": "南通工农路",
+      "addressDetail": "工农路515号金飞达广场乐购超市一楼肯德基",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 3,
+      "storeName": "海门长江",
+      "addressDetail": "黄海路530号欧尚超市一楼",
+      "pro": "24小时,Wi-Fi,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 4,
+      "storeName": "开发区上海路",
+      "addressDetail": "开发区上海路80号利群时代超市一楼",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,手机点餐",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 5,
+      "storeName": "南通桃园路",
+      "addressDetail": "桃园路１２号中南城购物中心负一楼",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 6,
+      "storeName": "海安江海路",
+      "addressDetail": "宁海南路2号文峰大世界购物中心1楼",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 7,
+      "storeName": "如皋益寿路",
+      "addressDetail": "中山西路1号正翔广场1楼",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 8,
+      "storeName": "海门叠石桥",
+      "addressDetail": "叠石桥家纺城大岛路和秀女路交叉口",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 9,
+      "storeName": "南通龙王桥",
+      "addressDetail": "工农路259号利群时代超市1楼",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 10,
+      "storeName": "南通城山路",
+      "addressDetail": "城山路100号苏果超市一楼",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    }
+  ]
+}

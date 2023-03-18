@@ -1,0 +1,357 @@
+
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="Cache-Control" content="no-siteapp" /><meta http-equiv="Cache-Control" content="no-transform " /><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" /><meta name="format-detection" content="telephone=no" /><meta content="yes" name="apple-mobile-web-app-capable" /><meta content="black" name=" apple-mobile-web-app-status-bar-style" /><link href="/css/skin220601.css" rel="stylesheet" type="text/css" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://song.gushiwen.cn/siteimg/log114.jpg" /><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://song.gushiwen.cn/siteimg/log72.jpg" /><link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://song.gushiwen.cn/siteimg/log57.jpg" />
+    <script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            
+        } else {
+            window.location.href = "https://so.gushiwen.cn/shiwenv_ea761be0f016.aspx";
+        }
+    </script>
+<meta name="description" content="春种一粒粟，秋收万颗子。四海无闲田，农夫犹饿死。锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦？" />
+
+
+    <script src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+    <script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?9007fab6814e892d3020a64454da5a55";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+</script>
+
+<title>
+	悯农二首原文、翻译及赏析_李绅古诗_古诗文网
+</title></head>
+<body>
+<div class="main1" id="main1">
+<a id="main1a" href="/"><b>古诗文网</b></a>
+<a style="float:right; font-size:20px; margin-right:10px; " href="javascript:goAbpNojump()">下载APP</a>
+</div>
+
+<div class="search">
+<div style="clear:both; height:29px; overflow:hidden; border:1px solid #888E6D; border-top:0px; background-color:#FBFAF6;">
+                <form action="/search.aspx" onsubmit="return selectSearch()" contentType="text/html; charset=utf-8">
+                    <input style="height:29px; line-height:29px; background-color:#FBFAF6; float:left; padding-left:2px; width:90%; font-size:16px; clear:left; border:0px; " oninput ="goshowBos()" id="txtKey" name="value" type="text" value="" maxlength="40" autocomplete="off"/>
+                    <input style=" display:none;" id='valuej' name="valuej" value="" />
+                    <input id='searchinput' type="submit" style="float:right; width:25px; height:25px; clear:right; margin-top:2px; margin-right:2px; background-image:url(https://song.gushiwen.cn/siteimg/docSearch.png);background-size:25px 25px; border:0px;cursor:pointer;" value="" />
+                    <input id="b" style="display:none;" type="text" />
+                </form>
+</div>
+                <div id="box"></div>
+</div>
+    
+
+<div id="main2" class="main2">
+<a href="/">推荐</a>
+<a style="border-bottom:2px solid #5D6146;" href="/shiwens/">诗文</a>
+<a href="/mingjus/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/">古籍</a>
+</div>
+
+
+<div class="main3" id="main3">
+     
+                <div style=" width:1px; height:1px; overflow:hidden;">
+            <textarea style=" background-color:#F0EFE2; border:0px;overflow:hidden;" cols="1" rows="1" id="txtare25106">春种一粒粟，秋收万颗子。四海无闲田，农夫犹饿死。锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦？——唐代·李绅《悯农二首》https://so.gushiwen.cn/shiwenv_ea761be0f016.aspx</textarea>
+            </div>
+          <div class="sons">
+          <div class="cont">
+               <div class="yizhu">
+               <img src="https://song.gushiwen.cn/siteimg/bei-pic.png"  width="25" height="25" alt="背诵" onclick="OnBeisong('ea761be0f016','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')" id="btnBeisongea761be0f016"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/shang-pic.png"  width="25" height="25" alt="赏析" onclick="OnShangxi('ea761be0f016','F1BF2497FD9370FD2C71FA9BDFF1C2BB')" id="btnShangxiea761be0f016"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/zhu-pic.png"  width="25" height="25" alt="注释" onclick="OnZhushi('ea761be0f016','F1BF2497FD9370FD2C71FA9BDFF1C2BB')" id="btnZhushiea761be0f016"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/yi-pic.png" width="25" height="25" alt="译文" onclick="OnYiwen('ea761be0f016','F1BF2497FD9370FD2C71FA9BDFF1C2BB')" id="btnYiwenea761be0f016" />
+                 
+                    <script type="text/javascript">
+                        document.getElementById("btnShangxiea761be0f016").style.display = "block";
+                    </script>
+                
+                    <script type="text/javascript">
+                        document.getElementById("btnZhushiea761be0f016").style.display = "block";
+                    </script>
+                
+                    <script type="text/javascript">
+                        document.getElementById("btnYiwenea761be0f016").style.display = "block";
+                    </script>
+                
+               </div>
+               <h1 style="font-size:22px; line-height:30px; margin-bottom:10px;">悯农二首</h1>
+               <p class="source"><a href="/authorv_7d5432b45289.aspx">李绅</a> <a href="/shiwens/default.aspx?cstr=%e5%94%90%e4%bb%a3">〔唐代〕</a></p>
+                <div class="contson" id="contsonea761be0f016">
+                    <p>春种一粒粟，秋收万颗子。<br />四海无闲田，农夫犹饿死。</p>
+<p>锄禾日当午，汗滴禾下土。<br />谁知盘中餐，粒粒皆辛苦？</p>
+                </div>
+          </div>
+          <div class="tool">
+            <div class="shoucang"><img id="likeImg25106" onclick="changeLike('ea761be0f016','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')" src="https://song.gushiwen.cn/siteimg/shou-cang.png" alt="收藏" width="19" height="19" /></div>
+            <div class="toolpinglun"><a href="javascript:goAbpNojump()"><img src="https://song.gushiwen.cn/siteimg/down-load.png" alt="下载" width="19" height="19" /></a></div>
+        <div class="toolpinglun"><a href="javascript:copy(25106)"><img src="https://song.gushiwen.cn/siteimg/co-py.png" alt="复制" width="19" height="19" /></a></div>
+         
+        <div class="toolpinglun"><a href="javascript:changeLike('ea761be0f016','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')"><img id="speakerimgea761be0f016" src="https://song.gushiwen.cn/siteimg/speak-er.png" alt="" width="19" height="19"/></a></div>
+        
+<div class="jiucuo"><a href="/jiucuo.aspx?from=http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016&u=%e8%af%97%e6%96%87ea761be0f016%e3%80%8a%e6%82%af%e5%86%9c%e4%ba%8c%e9%a6%96%e3%80%8b" >完善</a></div>
+</div>
+            <div id="toolPlayea761be0f016" style=" display:none;clear:both;"></div>
+        </div>
+
+       <div class="sons">
+        <div class="cont"  style="margin-top:10px; margin-bottom:10px;">
+            <img style=" float:left; -moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px; border:1px solid #DAD9D1;" width="30" height="30" src="https://song.gushiwen.cn/siteimg/loggwd114.png" alt="" />
+            <span style="float:left; line-height:30px; margin-left:10px; color:#0F0F0F;">古文岛</span>
+            <span style="float:left; line-height:30px; margin-left:10px; color:#999999; font-size:12px;">APP客户端</span>
+            <a id="aAndroid" style=" float:right; line-height:30px; height:30px; width:80px; font-size:16px; color:#FFFFFF; text-align:center; background-color:#5d6146;color:#fff;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;" href="javascript:changeLike('ea761be0f016','')" rel="nofollow">立即打开</a>
+        </div>
+      </div>
+
+                        
+              <div id="fanyiPlay3366" style="display:none; clear:both; margin-bottom:-15px; margin-top:10px;"></div>
+                  <div id="fanyi3366" class="sons" style="position:relative; z-index:0px;">
+    <div class="contyishang" style="padding-bottom:10px;">
+    <div style=" z-index:100px; height:60px; width:100%; position:absolute; bottom:38px; background-image:url(https://song.gushiwen.cn/siteimg/morebg.png); background-repeat:repeat-x; -webkit-tap-highlight-color: transparent;" onclick="fanyiShow(3366,'33CCF214648A4E8A','ea761be0f016')"></div>
+    <div style="height:30px; font-weight:bold; font-size:20px; margin-bottom:10px; clear:both;">
+    <h2><span style="float:left; font-size:20px; ">译文及注释</span></h2>
+    <a style="float:left; margin-top:4px; margin-left:5px;" href="javascript:changeLike('ea761be0f016','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')"><img id="speakerimgFanyi3366" src="https://song.gushiwen.cn/siteimg/speak-er.png" alt="" width="16" height="16"/></a>
+    </div>
+    <p>译文<br />春天只要播下一粒种子，秋天就可收获很多粮食。<br />普天之下，没有荒废不种的田地，却仍有劳苦农民被饿死。</p>
+<p>盛夏中午，烈日炎炎，农民还在劳作，汗珠滴入泥土。<br />有谁想到，我们碗中的米饭，一粒一粒都是农民辛苦劳动得来的呀？</p>
+<p>注释
+    <div style="text-align:center; margin-top:-5px;"><a style="text-decoration:none;" href="javascript:fanyiShow(3366,'33CCF214648A4E8A','ea761be0f016')">展开阅读全文 ∨</a></div>
+    </div>
+</div>
+                  <div id="fanyiquan3366" class="sons" style="display:none;"></div>
+              
+<div id="oneOther" class="lineone">
+<script type="text/javascript" src="//enennsa.gushiwen.cn/source/kfecn/production/ob/static/l_g.js"></script>
+</div> 
+
+        
+              <div id="shangxiPlay4777" style="display:none; clear:both; margin-bottom:-15px; margin-top:10px;"></div>
+                    <div id="shangxi4777" class="sons" style="position:relative; z-index:0px;">
+            <div class="contyishang" style="padding-bottom:10px;">
+            <div style=" z-index:100px; height:60px; width:100%; position:absolute; bottom:38px; background-image:url(https://song.gushiwen.cn/siteimg/morebg.png); background-repeat:repeat-x; -webkit-tap-highlight-color: transparent;" onclick="shangxiShow(4777,'6EE0A2D62E876AE6','ea761be0f016')"></div>
+            <div style="height:30px; font-weight:bold; font-size:20px; margin-bottom:10px; clear:both;">
+            <h2><span style="float:left; font-size:20px; ">赏析</span></h2>
+            <a style="float:left; margin-top:4px; margin-left:5px;" href="javascript:changeLike('ea761be0f016','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')"><img id="speakerimgShangxi4777" src="https://song.gushiwen.cn/siteimg/speak-er.png" / alt="" width="16" height="16"/></a>
+            </div>
+                <p>　　第一首一开头，就以“一粒粟”化为“万颗子”具体而形象的描绘了丰收，用“种”和“收”赞美了农民的劳动。</p>
+<p>　　“四海无闲田，农夫犹饿死。”诗的后两句是说，普天之下，没有荒废不种的土地，劳苦农民，仍然要饿死。</p>
+<p>　　第三句推而广之，描述四海之内，荒地变良田。这和前两
+                <div style="text-align:center; margin-top:-5px;"><a style="text-decoration:none;" href="javascript:shangxiShow(4777,'6EE0A2D62E876AE6','ea761be0f016')">展开阅读全文 ∨</a></div>
+            </div>
+        </div>
+                    <div id="shangxiquan4777" class="sons" style="display:none;"></div>
+               
+              <div id="shangxiPlay23239" style="display:none; clear:both; margin-bottom:-15px; margin-top:10px;"></div>
+                <div class="sons">
+                <div class="contyishang">
+                <div style="height:30px; font-weight:bold; font-size:20px; margin-bottom:10px; clear:both;">
+                <h2><span style="float:left; font-size:20px; ">创作背景</span></h2>
+                <a style="float:left; margin-top:4px; margin-left:5px;" href="javascript:changeLike('ea761be0f016','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')"><img id="speakerimgShangxi23239" src="https://song.gushiwen.cn/siteimg/speak-er.png" / alt="" width="16" height="16"/></a>
+                </div>
+                <p>　　根据唐代范摅《云溪友议》和《旧唐书·吕渭传》等书的记载，大致可推定这组诗为李绅于公元799年（唐德宗贞元十五年）所作。</p>
+            </div>
+
+
+            <div class="cankao">
+          
+<p style=" color:#999999;margin:0px; font-size:14px;line-height:140%;">参考资料：<a style="width:30px; font-size:12px;line-height:120%; float:right; border:1px solid #C5C5C5; margin-top:-1px; color:#999999; text-align:center;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;" href="/jiucuo.aspx?u=%e8%b5%8f%e6%9e%9023239%e3%80%8a%e5%88%9b%e4%bd%9c%e8%83%8c%e6%99%af%e3%80%8b">完善</a></p>
+
+        <div ontouchstart = "return false;" style="clear:both; float:left;color:#999999; font-size:14px; width:100%; margin-top:4px;">
+        <span style="width:20px; float:left;font-size:14px;line-height:140%;">1、</span>
+        <span style="width:90%; float:left;font-size:14px;line-height:140%;">严正道.李绅《古风二首》三辨. 西华大学学报(哲学社会科学版),2012,06</span>
+        </div>
+  
+            </div>
+        </div>
+               
+          <div id="authorPlay683" style="display:none; clear:both; margin-bottom:-15px; margin-top:10px;"></div>
+          <div style=" width:1px; height:1px; overflow:hidden;">
+            <textarea style=" background-color:#F0EFE2; border:0px;overflow:hidden;" cols="1" rows="1" id="txtareAuthor683">李绅（772—846）汉族，亳州（今属安徽）人，生于乌程（今浙江湖州），长于润州无锡（今属江苏）。字公垂。唐元和元年（806年），进士及第，补国子助教。与元稹、白居易交游甚密，他一生最闪光的部分在于诗歌，他是在文学史上产生过巨大影响的新乐府运动的参与者。作有《乐府新题》20首，已佚。著有《悯农》诗两首：“锄禾日当午，汗滴禾下土，谁知盘中餐，粒粒皆辛苦。”脍炙人口，妇孺皆知，千古传诵。《全唐诗》存其诗四卷。https://so.gushiwen.cn/authorv_7d5432b45289.aspx</textarea>
+          </div>
+                <div class="sonspic">
+                <div class="cont" style="margin-top:10px;">
+                      
+                      <div class="divimg" style="margin-top:2px;">
+                      <a href="/authorv_7d5432b45289.aspx"><img src="https://song.gushiwen.cn/authorImg/lishen.jpg" width="105" height="150" alt="李绅"/></a>
+                      </div>
+                      
+                        <p style="height:24px;">
+                        <a style="font-size:20px; line-height:24px; height:24px;" href="/authorv_7d5432b45289.aspx"><b>李绅</b></a>
+                        <a style="margin-left:5px;" href="javascript:changeLikeAuthor('7d5432b45289','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')"><img id="speakerimgAuthor683" src="https://song.gushiwen.cn/siteimg/speak-er.png" / alt="" width="16" height="16"/></a>
+                        </p>
+                        <p style=" margin:0px;">李绅（772—846）汉族，亳州（今属安徽）人，生于乌程（今浙江湖州），长于润州无锡（今属江苏）。字公垂。唐元和元年（806年），进士及第，补国子助教。与元稹、白居易交游甚密，他一生最闪光的部分在于诗歌，他是在文学史上产生过巨大影响的新乐府运动的参与者。作有《乐府新题》20首，已佚。著有《悯农》诗两首：“锄禾日当午，汗滴禾下土，谁知盘中餐，粒粒皆辛苦。”脍炙人口，妇孺皆知，千古传诵。《全唐诗》存其诗四卷。<a href="/shiwens/default.aspx?astr=%e6%9d%8e%e7%bb%85">► 138篇诗文</a>　<a href="/mingjus/default.aspx?astr=%e6%9d%8e%e7%bb%85">► 32条名句</a></p>
+                </div>
+                <div class="tool">
+                    <div class="shoucang"><img id="likeImg683" onclick="changeLikeAuthor('7d5432b45289','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')" src="https://song.gushiwen.cn/siteimg/shou-cang.png" alt="收藏" width="19" height="19" /></div>
+                    <div class="toolpinglun"><a href="javascript:goAbpNojump()"><img src="https://song.gushiwen.cn/siteimg/down-load.png" alt="下载" width="19" height="19" /></a></div>
+                    <div class="toolpinglun"><a href="javascript:copyAuthor(683)"><img src="https://song.gushiwen.cn/siteimg/co-py.png" alt="复制" width="19" height="19" /></a></div>
+                    <div class="toolpinglun" ><a href="/authorv_7d5432b45289.aspx"><img src="https://song.gushiwen.cn/siteimg/tool-more.png" alt="详情" width="19" height="19" /></a></div>
+                    <div class="jiucuo"><a href="/jiucuo.aspx?from=http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016&u=%e4%bd%9c%e8%80%857d5432b45289%e3%80%8a%e6%9d%8e%e7%bb%85%e3%80%8b" >完善</a></div>
+                    </div>
+            </div>
+               
+       <div class="sons">
+        <div class="cont"  style="margin-top:10px; margin-bottom:10px;">
+            <img style=" float:left; -moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px; border:1px solid #DAD9D1;" width="30" height="30" src="https://song.gushiwen.cn/siteimg/loggwd114.png" alt="" />
+            <span style="float:left; line-height:30px; margin-left:10px; color:#0F0F0F;">古文岛</span>
+            <span style="float:left; line-height:30px; margin-left:10px; color:#999999; font-size:12px;">APP客户端</span>
+            <a id="a1" style=" float:right; line-height:30px; height:30px; width:80px; font-size:16px; color:#FFFFFF; text-align:center; background-color:#5d6146;color:#fff;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;" href="javascript:changeLike('ea761be0f016','')" rel="nofollow">立即打开</a>
+        </div>
+      </div>
+            
+<div class="title">
+    <div class="titleleft"></div>
+    猜您喜欢
+</div>
+         
+          <div style=" width:1px; height:1px; overflow:hidden;">
+        <textarea style=" background-color:#F0EFE2; border:0px;overflow:hidden;" cols="1" rows="1" id="txtare10982">茂陵多病后，尚爱卓文君。酒肆人间世，琴台日暮云。野花留宝靥，蔓草见罗裙。归凤求凰意，寥寥不复闻。——唐代·杜甫《琴台》https://so.gushiwen.cn/shiwenv_5866bfd78142.aspx</textarea>
+        </div>
+          <div class="sons">
+          <div class="cont">
+               <div class="yizhu">
+               <img src="https://song.gushiwen.cn/siteimg/bei-pic.png"  width="25" height="25" alt="背诵" onclick="OnBeisong('5866bfd78142','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')" id="btnBeisong5866bfd78142"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/shang-pic.png"  width="25" height="25" alt="赏析" onclick="OnShangxi('5866bfd78142','F00D0BC6FA7BBCF776D4AAA31E6B0ABC')" id="btnShangxi5866bfd78142"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/zhu-pic.png"  width="25" height="25" alt="注释" onclick="OnZhushi('5866bfd78142','F00D0BC6FA7BBCF776D4AAA31E6B0ABC')" id="btnZhushi5866bfd78142"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/yi-pic.png" width="25" height="25" alt="译文" onclick="OnYiwen('5866bfd78142','F00D0BC6FA7BBCF776D4AAA31E6B0ABC')" id="btnYiwen5866bfd78142" />
+                 
+                    <script type="text/javascript">
+                        document.getElementById("btnShangxi5866bfd78142").style.display = "block";
+                    </script>
+                
+                    <script type="text/javascript">
+                        document.getElementById("btnZhushi5866bfd78142").style.display = "block";
+                    </script>
+                
+                    <script type="text/javascript">
+                        document.getElementById("btnYiwen5866bfd78142").style.display = "block";
+                    </script>
+                
+               </div>
+               <p><a style="font-size:20px; line-height:24px; height:24px;" href="/shiwenv_5866bfd78142.aspx"><b>琴台</b></a></p>
+               <p class="source"><a href="/authorv.aspx?name=%e6%9d%9c%e7%94%ab">杜甫</a><a href="/shiwens/default.aspx?cstr=%e5%94%90%e4%bb%a3">〔唐代〕</a></p>
+                <div class="contson" id="contson5866bfd78142" style="position:relative; z-index:0px;">
+            <p>茂陵多病后，尚爱卓文君。<br />酒肆人间世，琴台日暮云。<br />野花留宝靥，蔓草见罗裙。<br />归凤求凰意，寥寥不复闻。</p>
+        </div>
+          </div>
+          <div class="tool">
+            <div class="shoucang"><img id="likeImg10982" onclick="changeLike('5866bfd78142','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')" src="https://song.gushiwen.cn/siteimg/shou-cang.png" alt="收藏" width="19" height="19" /></div>
+            <div class="toolpinglun"><a href="javascript:goAbpNojump()"><img src="https://song.gushiwen.cn/siteimg/down-load.png" alt="下载" width="19" height="19" /></a></div>
+            <div class="toolpinglun"><a href="javascript:copy(10982)"><img src="https://song.gushiwen.cn/siteimg/co-py.png" alt="复制" width="19" height="19" /></a></div>
+            
+            <div class="toolpinglun" ><a href="/shiwenv_5866bfd78142.aspx"><img src="https://song.gushiwen.cn/siteimg/tool-more.png" alt="详情" width="19" height="19" /></a></div>
+            <div class="jiucuo"><a href="/jiucuo.aspx?from=http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016&u=%e8%af%97%e6%96%875866bfd78142%e3%80%8a%e7%90%b4%e5%8f%b0%e3%80%8b" >完善</a></div>
+            </div>
+            <div id="toolPlay5866bfd78142" style=" display:none;clear:both;"></div>
+        </div>
+           
+          <div style=" width:1px; height:1px; overflow:hidden;">
+        <textarea style=" background-color:#F0EFE2; border:0px;overflow:hidden;" cols="1" rows="1" id="txtare7227">二月江南花满枝，他乡寒食远堪悲。贫居往往无烟火，不独明朝为子推。——唐代·孟云卿《寒食》https://so.gushiwen.cn/shiwenv_d5bb7224c33f.aspx</textarea>
+        </div>
+          <div class="sons">
+          <div class="cont">
+               <div class="yizhu">
+               <img src="https://song.gushiwen.cn/siteimg/bei-pic.png"  width="25" height="25" alt="背诵" onclick="OnBeisong('d5bb7224c33f','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')" id="btnBeisongd5bb7224c33f"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/shang-pic.png"  width="25" height="25" alt="赏析" onclick="OnShangxi('d5bb7224c33f','F7DA649BB47E16BCDFAB8ABAEDAA553D')" id="btnShangxid5bb7224c33f"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/zhu-pic.png"  width="25" height="25" alt="注释" onclick="OnZhushi('d5bb7224c33f','F7DA649BB47E16BCDFAB8ABAEDAA553D')" id="btnZhushid5bb7224c33f"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/yi-pic.png" width="25" height="25" alt="译文" onclick="OnYiwen('d5bb7224c33f','F7DA649BB47E16BCDFAB8ABAEDAA553D')" id="btnYiwend5bb7224c33f" />
+                 
+                    <script type="text/javascript">
+                        document.getElementById("btnShangxid5bb7224c33f").style.display = "block";
+                    </script>
+                
+                    <script type="text/javascript">
+                        document.getElementById("btnZhushid5bb7224c33f").style.display = "block";
+                    </script>
+                
+                    <script type="text/javascript">
+                        document.getElementById("btnYiwend5bb7224c33f").style.display = "block";
+                    </script>
+                
+               </div>
+               <p><a style="font-size:20px; line-height:24px; height:24px;" href="/shiwenv_d5bb7224c33f.aspx"><b>寒食</b></a></p>
+               <p class="source"><a href="/authorv.aspx?name=%e5%ad%9f%e4%ba%91%e5%8d%bf">孟云卿</a><a href="/shiwens/default.aspx?cstr=%e5%94%90%e4%bb%a3">〔唐代〕</a></p>
+                <div class="contson" id="contsond5bb7224c33f" style="position:relative; z-index:0px;">
+            二月江南花满枝，他乡寒食远堪悲。<br />贫居往往无烟火，不独明朝为子推。 
+        </div>
+          </div>
+          <div class="tool">
+            <div class="shoucang"><img id="likeImg7227" onclick="changeLike('d5bb7224c33f','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')" src="https://song.gushiwen.cn/siteimg/shou-cang.png" alt="收藏" width="19" height="19" /></div>
+            <div class="toolpinglun"><a href="javascript:goAbpNojump()"><img src="https://song.gushiwen.cn/siteimg/down-load.png" alt="下载" width="19" height="19" /></a></div>
+            <div class="toolpinglun"><a href="javascript:copy(7227)"><img src="https://song.gushiwen.cn/siteimg/co-py.png" alt="复制" width="19" height="19" /></a></div>
+             
+              <div class="toolpinglun"><a  href="javascript:changeLike('d5bb7224c33f','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')"><img id="speakerimgd5bb7224c33f" src="https://song.gushiwen.cn/siteimg/speak-er.png" / alt="" width="19" height="19"/></a></div>
+              
+            <div class="toolpinglun" ><a href="/shiwenv_d5bb7224c33f.aspx"><img src="https://song.gushiwen.cn/siteimg/tool-more.png" alt="详情" width="19" height="19" /></a></div>
+            <div class="jiucuo"><a href="/jiucuo.aspx?from=http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016&u=%e8%af%97%e6%96%87d5bb7224c33f%e3%80%8a%e5%af%92%e9%a3%9f%e3%80%8b" >完善</a></div>
+            </div>
+            <div id="toolPlayd5bb7224c33f" style=" display:none;clear:both;"></div>
+        </div>
+           
+          <div style=" width:1px; height:1px; overflow:hidden;">
+        <textarea style=" background-color:#F0EFE2; border:0px;overflow:hidden;" cols="1" rows="1" id="txtare2784">海上生明月，天涯共此时。情人怨遥夜，竟夕起相思。灭烛怜光满，披衣觉露滋。不堪盈手赠，还寝梦佳期。——唐代·张九龄《望月怀远》https://so.gushiwen.cn/shiwenv_7cc200edc65e.aspx</textarea>
+        </div>
+          <div class="sons">
+          <div class="cont">
+               <div class="yizhu">
+               <img src="https://song.gushiwen.cn/siteimg/bei-pic.png"  width="25" height="25" alt="背诵" onclick="OnBeisong('7cc200edc65e','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')" id="btnBeisong7cc200edc65e"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/shang-pic.png"  width="25" height="25" alt="赏析" onclick="OnShangxi('7cc200edc65e','9314655804B8695C696D8E5F64FE68DA')" id="btnShangxi7cc200edc65e"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/zhu-pic.png"  width="25" height="25" alt="注释" onclick="OnZhushi('7cc200edc65e','9314655804B8695C696D8E5F64FE68DA')" id="btnZhushi7cc200edc65e"/>
+                    <img style=" display:none;" src="https://song.gushiwen.cn/siteimg/yi-pic.png" width="25" height="25" alt="译文" onclick="OnYiwen('7cc200edc65e','9314655804B8695C696D8E5F64FE68DA')" id="btnYiwen7cc200edc65e" />
+                 
+                    <script type="text/javascript">
+                        document.getElementById("btnShangxi7cc200edc65e").style.display = "block";
+                    </script>
+                
+                    <script type="text/javascript">
+                        document.getElementById("btnZhushi7cc200edc65e").style.display = "block";
+                    </script>
+                
+                    <script type="text/javascript">
+                        document.getElementById("btnYiwen7cc200edc65e").style.display = "block";
+                    </script>
+                
+               </div>
+               <p><a style="font-size:20px; line-height:24px; height:24px;" href="/shiwenv_7cc200edc65e.aspx"><b>望月怀远</b></a></p>
+               <p class="source"><a href="/authorv.aspx?name=%e5%bc%a0%e4%b9%9d%e9%be%84">张九龄</a><a href="/shiwens/default.aspx?cstr=%e5%94%90%e4%bb%a3">〔唐代〕</a></p>
+                <div class="contson" id="contson7cc200edc65e" style="position:relative; z-index:0px;">
+            海上生明月，天涯共此时。<br />情人怨遥夜，竟夕起相思。<br />灭烛怜光满，披衣觉露滋。<br />不堪盈手赠，还寝梦佳期。 
+        </div>
+          </div>
+          <div class="tool">
+            <div class="shoucang"><img id="likeImg2784" onclick="changeLike('7cc200edc65e','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')" src="https://song.gushiwen.cn/siteimg/shou-cang.png" alt="收藏" width="19" height="19" /></div>
+            <div class="toolpinglun"><a href="javascript:goAbpNojump()"><img src="https://song.gushiwen.cn/siteimg/down-load.png" alt="下载" width="19" height="19" /></a></div>
+            <div class="toolpinglun"><a href="javascript:copy(2784)"><img src="https://song.gushiwen.cn/siteimg/co-py.png" alt="复制" width="19" height="19" /></a></div>
+             
+              <div class="toolpinglun"><a  href="javascript:changeLike('7cc200edc65e','http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016')"><img id="speakerimg7cc200edc65e" src="https://song.gushiwen.cn/siteimg/speak-er.png" / alt="" width="19" height="19"/></a></div>
+              
+            <div class="toolpinglun" ><a href="/shiwenv_7cc200edc65e.aspx"><img src="https://song.gushiwen.cn/siteimg/tool-more.png" alt="详情" width="19" height="19" /></a></div>
+            <div class="jiucuo"><a href="/jiucuo.aspx?from=http://m.gushiwen.cn/shiwenv.aspx?id=ea761be0f016&u=%e8%af%97%e6%96%877cc200edc65e%e3%80%8a%e6%9c%9b%e6%9c%88%e6%80%80%e8%bf%9c%e3%80%8b" >完善</a></div>
+            </div>
+            <div id="toolPlay7cc200edc65e" style=" display:none;clear:both;"></div>
+        </div>
+          
+<div id="threeOther" style="height:auto; clear:both; margin-top:15px; border:1px solid #d7d5bc; background-color:#F0EFE2;">
+<script type="text/javascript" src="//enennsa.gushiwen.cn/common/cxwg/openjs/d/production/p/source/f/du.js"></script>
+</div>
+
+
+
+</div>
+
+  
+
+    <div id="_ucdkfadfdsj" style="display:none;"></div>
+    <div id="_ucdkfadfdsa" style="display:none;"></div>
+    <div id="_ucdkfadfdsb" style="display:none;"></div>
+
+<script defer="defer" src="/js/skin20220730.js" type="text/javascript"></script>
+</body>
+</html>

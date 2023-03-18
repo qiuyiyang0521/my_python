@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html> <!--<![endif]-->
+
+
+
+<html lang="zh_CN" class="">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+  <meta name="renderer" content="webkit">
+  <meta name="viewport"
+    content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <title>提示信息 - 谷粒学苑 - Java培训|大数据培训|前端培训|HTML5培训|Linux运维培训_程序员一站式IT在线学习平台 - Powered By EduSoho</title>
+      <meta name="keywords"
+          content="
+谷粒学苑,IT在线视频教程,Java视频,HTML5视频,前端视频,Python视频,大数据视频,IT在线学习"/>
+    <meta name="description"
+          content="谷粒学苑为尚硅谷旗下IT课程在线学习平台。谷粒学苑会同多个知名开发团队联合制定的Java、前端、大数据、Python、Linux运维等课程，致力于打造业界更适合自学、代码量大、案例多、实战性强、技术贴合企业的IT在线学习平台！"/>
+    <meta name="format-detection"
+          content=""/>
+    <meta content="GhUSR4vusY51qm6ldLuNgOOijLEjPwaqWxoy-KQhSZI" name="csrf-token"/>
+    <meta content="0" name="is-login"/>
+    <meta content="0" name="wechat_login_bind"/>
+  
+
+  <meta property="qc:admins" content="240444522214751756375" />
+      <link rel="icon" href="/files/system/2017/06-21/160846e883d7292766.ico?version=20.4.6" type="image/x-icon"/>
+    <link rel="shortcut icon" href="/files/system/2017/06-21/160846e883d7292766.ico?version=20.4.6" type="image/x-icon" media="screen"/>
+  
+  <!--[if lt IE 9]>
+  <script src="/static-dist/libs/html5shiv.js?version=20.4.6"></script>
+  <script src="/static-dist/es5-shim/es5-shim.js?version=20.4.6"></script>
+  <script src="/static-dist/es5-shim/es5-sham.js?version=20.4.6"></script>
+  <![endif]-->
+
+          
+    
+<link href="/static-dist/app/css/bootstrap.css?version=20.4.6" rel="stylesheet" />
+
+	<link href="/static-dist/app/css/main.css?version=20.4.6" rel="stylesheet" />
+<link href="/static-dist/app/css/main-v2.css?version=20.4.6" rel="stylesheet" />
+
+
+<link rel="stylesheet" media="screen" href="/themes/june/css/sggn.css?version=20.4.6" />
+<link rel="stylesheet" media="screen" href="/themes/june/css/june-blue.css?version=20.4.6" />
+<link rel="stylesheet" media="screen" href="/themes/june/css/header1.css?version=20.4.6" />  
+  </head>
+<body class="es-main-default es-nav-default ">
+<!--[if lt IE 9]>
+<script src="/static-dist/libs/fix-ie.js?version=20.4.6"></script>
+<style>
+  .lt-ie9 {
+    overflow: hidden;
+  }
+  .ie-mask {
+    z-index: 999999;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+    background: #000;
+  }
+  .ie-alert-wrap {
+    position: absolute;
+    z-index: 1000000;
+    margin: -200px auto 0;
+    top: 50%;
+    left: 0;
+    right: 0;
+    text-align: center;
+  }
+  .ie-alert {
+    width: 514px;
+    height: 397px;
+    margin: 0 auto;
+  }
+  .ie-alert__chrome,
+  .ie-alert__firefox {
+    position: absolute;
+    z-index: 1000001;
+    display: block;
+    bottom: 48px;
+    width: 60px;
+    height: 80px;
+  }
+  .ie-alert__chrome {
+    left: 50%;
+    margin-left: -80px;
+  }
+  .ie-alert__firefox {
+    right: 50%;
+    margin-right: -80px;
+  }
+</style>
+<div class="ie-mask"></div>
+<div class="ie-alert-wrap">
+  <div class="ie-alert" style="background:url('/static-dist/app/img/browser/browser_update.png?version=20.4.6')">
+    <a href="http://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8" target="_blank" class="ie-alert__chrome"></a>
+    <a href="http://firefox.com.cn/download/" target="_blank" class="ie-alert__firefox"></a>
+  </div>
+</div>
+
+<![endif]-->
+
+  <div class="es-wrap">
+                  <style type="text/css">
+  @charset "UTF-8";
+.alert .alert-link{
+  color: red!important;
+}
+.cd-alert.cd-alert-warning{
+  background: #f4f4f4;
+}
+.header{
+    height: 60px;
+    background-color: #282d30;
+    box-shadow: none;
+}
+.h-con{
+    height: 60px;
+    box-shadow:none;
+    background-color: #282d30;
+}
+.nav-list a{
+  color: #fff;
+}
+.userName {
+    color: #fff;
+}
+.nav-list .nav-course:hover{
+  background:#282d30;
+}
+.nav-list .nav-course.active:hover{
+  background:#61b13b;
+}
+.login-after:hover .login-after-top {
+    color:#fff;
+  background-color:#000;
+}
+
+@media (max-width: 767px) {
+    body.homepage .es-wrap, body.course-list-page .es-wrap, body.open-course-list .es-wrap, body.course-dashboard-page .es-wrap, body.login .es-wrap, body.register .es-wrap, body.my-course .es-wrap {
+        padding-top: 0;
+    }
+}
+
+</style>
+<header class="header">
+    <div class="relative h-con">
+        <div class="logo-con absolute">
+            <a href="/" class="logo relative" id="logo">
+                <img src="/themes/june/img/logo-green1.png?version=20.4.6">
+          </a>
+        </div>
+        <div class="slogan">
+            <div class="slogan-t">谷粉力挺老学员推荐</div>
+            <div class="slogan-b">尚硅谷旗下线上平台</div>
+        </div>
+        <div class="header-search">
+            <form action="/search" method="get" id="searchForm">
+                <div class="header-search-input-wrap">
+                    <input type="text" class="js-header-search header-search-input" placeholder="搜索课程" value="" name="q">
+                    <span class="header-search-icon"></span>
+                </div>
+            </form>
+        </div>
+
+        <div class="main-width relative main-width-q">
+            <nav class="float-right">
+                <ul class="nav-list">
+                    <!--<li><a href="/" class="active">首页</a></li>-->
+                    <li class="relative">
+                        <a class=" nav-course" href="/course/explore">全部课程</a>
+                    </li>
+                    <li class="top-nav"><a href="javascript:">学习路线图</a>
+                       <div class="sub-nav">
+                          <ul >
+                            <li><a href="/path/java" target="_blank">Java开发</a></li>
+                            <li><a href="/path/bigdata" target="_blank">大数据</a></li>
+                            <li><a href="/path/front" target="_blank">前端开发</a></li>
+                            <li><a href="/course/explore/Linux" target="_blank">Linux运维</a></li>
+                            <li><a href="/path/android" target="_blank">Android</a></li>
+                          </ul>
+                        </div>
+                    </li>
+                    <li><a target="_blank" href="http://www.atguigu.com">面授高薪班</a></li>
+                    <li>
+                        <a href="http://www.itdachang.com/" target="_blank">大厂学苑</a>
+                    </li>
+                </ul>
+            </nav>
+             <div class="q-btn-con bg-icon" onclick="headerToggle()"></div>
+
+                            <!--登录前显示-->
+                <div class="absolute login-box login-before">
+                    <p>
+                        <span class="bg-icon"></span>
+                        <a href="/login?goto=/course/455/task/20264/show">登录</a>
+                        <span>/</span>
+                        <a href="/register?goto=/course/455/task/20264/show">注册</a>
+                    </p>
+                </div>
+                <!--end 登录前-->
+
+            
+        </div>
+    </div>
+</header>
+          
+          
+      <div id="content-container" class="container">
+        <div id="page-message-container" class="page-message-container" data-goto="/login" data-duration=3>
+  <div class="page-message-panel">
+    <div class="page-message-heading">
+      <h2 class="page-message-title">提示信息</h2>
+    </div>
+    <div class="page-message-body">请先登录</div>
+  </div>
+</div>
+      </div>
+
+          
+          <div class="sgg_bot">
+    <div class="sgg_bot1">
+      <div class="sgg_bot1topbig">
+          <div class="sgg_bot1top">
+              <div class="sgg_bottopimg"><img src="/themes/june/img/bot1.png" />业界大牛亲自授课</div>
+              <div class="sgg_bottopimg"><img src="/themes/june/img/bot2.png" />前沿技术实时更新</div>
+              <div class="sgg_bottopimg sgg_bottopimg3"><img src="/themes/june/img/bot3.png" />足不出户学编程</div>
+          </div>
+      </div>
+      <div class="sgg_botcenter">
+        <div class="sgg_botleft">
+            <ul>
+                <li><b>新手入门</b></li>
+                <li><a href="/register?goto=/course/455/task/20264/show">新用户注册</a></li>
+                <li><a href="/login?goto=/course/455/task/20264/show">用户登录</a></li>
+                <li><a href="/password/reset">找回密码</a></li>
+            </ul>
+            <ul>
+                <li><b>关于我们</b></li>
+                <li><a href="http://www.atguigu.com/teacher.shtml" target="_blank">名师团队</a></li>
+                <li><a href="http://www.atguigu.com/download.shtml" target="_blank">视频下载</a></li>
+                <li><a href="https://tb.53kf.com/code/client/10007377/1" target="_blank">合作企业</a></li>
+            </ul>
+            <ul>
+                <li><b>资源下载</b></li>
+                <li><a href="http://www.atguigu.com/download.shtml" target="_blank">视频下载</a></li>
+                <li><a href="http://www.atguigu.com/opensource.shtml" target="_blank">资料下载</a></li>
+                <li><a href="http://www.atguigu.com/opensource.shtml#2" target="_blank">工具下载</a></li>
+            </ul>
+            <ul>
+                <li><b>联系我们</b></li>
+                <li><a href="https://search.51job.com/list/010000,000000,0000,00,9,99,Java%25E5%25BC%2580%25E5%258F%2591%25E5%25B7%25A5%25E7%25A8%258B%25E5%25B8%2588,2,1.html?lang=c&stype=&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&providesalary=99&lonlat=0%2C0&radius=-1&ord_field=0&confirmdate=9&fromType=&dibiaoid=0&address=&line=&specialarea=00&from=&welfare=" target="_blank">工作机会</a></li>
+                <li><a href="http://www.atguigu.com/join.shtml" target="_blank">招贤纳师</a></li>
+                <li><a href="/page/contacts" target="_blank">联系方式</a></li>
+            </ul>
+        </div>
+            <div class="sgg_botright">
+                <img src="/themes/june/img/wx.png" width="110" height="110" alt="关注尚硅谷微信 一键下载全部视频教程" title="关注尚硅谷微信 一键下载全部视频教程" />
+                <p>关注尚硅谷微信</p>
+                <p>一键下载全部视频教程</p>
+            </div>
+        </div>
+          </div>
+</div>
+        <div class="sgg_botbotbg">
+          <div class="sgg_botbot">
+          <p>
+
+
+            课程版权均归<a href="/">谷粒学苑</a>所有&nbsp;            <a href="https://beian.miit.gov.cn" target="_blank">京ICP备17055252号&nbsp;</a>
+              <img src="/themes/june/img/icon_jh.png" alt="" >
+              <a>京公网安备11011402011204号&nbsp;&nbsp;</a>
+              <a href="/page/jyxkz" target="_blank">经营许可证&nbsp;</a>
+              <a href="/page/yyzz" target="_blank">营业执照&nbsp;</a>
+              <a href="/page/chengnuo" target="_blank">依法合规经营承诺&nbsp;</a>
+
+                        </p>
+          </div>
+        </div>
+
+
+<!-- toolbar -->
+<style type="text/css">
+.toolbar {
+  position:fixed;
+  right:10px;
+  bottom:4%;
+  z-index:1020;
+  -webkit-transition:all .3s;
+  -moz-transition:all .3s;
+  -ms-transition:all .3s;
+  -o-transition:all .3s;
+  transition:all .3s
+}
+.toolbarbox {
+  width:52px;
+  background:#fff;
+  position:fixed;
+  right:0;
+  bottom: 10px;
+  color:#fff
+}
+.toolbarbox img {
+  display: block;
+  border:0;
+  max-width:100%;
+  margin: 5px auto;
+}
+
+.mobel {
+  width:52px;
+  height:56px;
+  text-align:center;
+  position:relative;
+  cursor:pointer
+}
+.mobel >a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.tb-qq{
+  background: url(/themes/june/img/toolbar/qq-gray.png?version=20.4.6) no-repeat center center;
+}
+.tb-qq:hover{
+  background: url(/themes/june/img/toolbar/qq-green.png?version=20.4.6) no-repeat center center;
+}
+.tb-tel{
+  background: url(/themes/june/img/toolbar/phone.png?version=20.4.6) no-repeat center center;
+}
+.tb-tel:hover{
+  background: url(/themes/june/img/toolbar/phone-green.png?version=20.4.6) no-repeat center center;
+}
+.tb-mail{
+  background: url(/themes/june/img/toolbar/mail-gray.png?version=20.4.6) no-repeat center center;
+}
+.tb-mail:hover{
+  background: url(/themes/june/img/toolbar/mail-green.png?version=20.4.6) no-repeat center center;
+}
+
+.tb-zx{
+  background: url(/themes/june/img/toolbar/zx-green.png?version=20.4.6) no-repeat center center;
+}
+.tb-zx a,.tb-zx a:hover,.tb-zx a:active,.tb-zx a:visited{
+  color: #fff;
+}
+
+.tb-wx{
+  background: url(/themes/june/img/toolbar/weixin-gray.png?version=20.4.6) no-repeat center center;
+}
+.tb-wx:hover{
+  background: url(/themes/june/img/toolbar/weixin-green.png?version=20.4.6) no-repeat center center;
+}
+.tb-top{
+  background: url(/themes/june/img/toolbar/top-gray.png?version=20.4.6) no-repeat center center;
+}
+.tb-top:hover{
+  background: url(/themes/june/img/toolbar/top-green.png?version=20.4.6) no-repeat center center;
+}
+
+.mobel:hover .hidemobelBox{
+  display: block;
+}
+.hidemobelBox {
+  /*width:110px;
+  padding:10px;*/
+  background:none;
+  display:none;
+  position:absolute;
+  right:50px;
+  top:17px;
+
+}
+.hidemobelBox-content{
+    width:110px;
+    padding:10px;
+    background:#fff;
+    position:relative;
+    cursor:pointer;
+    font-weight:700;
+    text-align:center;
+    line-height:30px;
+    color: #999;
+    font-size: 12px;
+    margin-right: 15px;
+    position: relative;
+}
+.hidemobelBox a{
+  cursor:pointer;
+  font-weight:700;
+  text-align:left;
+  line-height:30px;
+  color: #999;
+}
+
+
+.tb-wx .hidemobelBox {
+  padding-top: 8px;
+  height:auto;
+  text-align:center;
+  line-height: 25px;
+  font-size: 12px;
+  top: -35px;
+}
+.tb-wx .hidemobelBox:after {
+
+  top:24px;
+
+}
+.tb-wx .hidemobelBox img{
+  width: 100%;
+  margin: 0;
+}
+
+.tb-wx .hidemobelBox-content:after {
+  top:50px;
+}
+
+
+.hidemobelBox-content:after {
+  content:'';
+  position:absolute;
+  top:6px;
+  right:-8px;
+  display:block;
+  border-top:8px solid transparent;
+  border-bottom:8px solid transparent;
+  border-left:8px solid #fff
+}
+
+.tool-line {
+  width:25px;
+  height:1px;
+  border-bottom:1px solid #e7e7e7;
+  margin:0 auto;
+}
+
+@-webkit-keyframes ball-scale {
+  0% {
+    -webkit-transform:scale(0);
+    transform:scale(0)
+  }
+  100% {
+    -webkit-transform:scale(1);
+    transform:scale(1);
+    opacity:0
+  }
+}
+
+@keyframes ball-scale {
+  0% {
+    -webkit-transform:scale(0);
+    transform:scale(0)
+  }
+  100% {
+    -webkit-transform:scale(1);
+    transform:scale(1);
+    opacity:0
+  }
+}
+
+.hidemsg {
+  width:210px;
+  height:40px;
+  line-height:28px;
+  background:#10c46e;
+  text-align:center;
+  overflow:hidden
+}
+.hidemsg div {
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  margin:auto;
+  pointer-events:none;
+  background-color:#fff;
+  -webkit-border-radius:100%;
+  -moz-border-radius:100%;
+  -o-border-radius:100%;
+  -ms-border-radius:100%;
+  border-radius:100%;
+  -webkit-animation-fill-mode:both;
+  -moz-animation-fill-mode:both;
+  -ms-animation-fill-mode:both;
+  -o-animation-fill-mode:both;
+  animation-fill-mode:both;
+  display:inline-block;
+  width:204px;
+  height:204px;
+  -webkit-animation:ball-scale 1s 0s ease-in-out infinite;
+  -moz-animation:ball-scale 1s 0s ease-in-out infinite;
+  -ms-animation:ball-scale 1s 0s ease-in-out infinite;
+  -o-animation:ball-scale 1s 0s ease-in-out infinite;
+  animation:ball-scale 1s 0s ease-in-out infinite
+}
+.hidemsg p {
+  line-height:40px;
+  color:#fff;
+  font-weight:700;
+  font-size:16px
+}
+.hidemsgAfter {
+  width:225px;
+  height:40px;
+  position:relative;
+  left:-222px;
+  top:-45px;
+  overflow:hidden;
+  cursor:pointer
+}
+.hidemsgAfter :after {
+  content:'';
+  position:absolute;
+  top:11px;
+  right:7px;
+  display:block;
+  border-top:8px solid transparent;
+  border-bottom:8px solid transparent;
+  border-left:8px solid #10c46e
+}
+
+@media (max-width: 767px) {
+   .toolbar{
+    display: none;
+   }
+}
+
+</style>
+
+<div class="toolbar">
+<div class="toolbarbox">
+
+
+  <div class="mobel tb-zx">
+    <a href="https://tb.53kf.com/code/client/10007377/1" target="_blank">
+    </a>
+    <div class="hidemsgAfter"><div class="hidemsg"><p><a target="_blank"  href="https://tb.53kf.com/code/client/10007377/1">现在就与学习导师聊一聊</a></p><div></div></div></div>
+  </div>
+  <div class="tool-line"></div>
+
+
+  <div class="mobel tb-qq">
+    <a href="https://jq.qq.com/?_wv=1027&k=fmDzITDQ" target="_blank">
+    </a>
+    <div class="hidemobelBox">
+      <div class="hidemobelBox-content">
+        <a href="https://jq.qq.com/?_wv=1027&k=fmDzITDQ" target="_blank">
+             <img src="/themes/june/img/toolbar/qqun.png?version=20.4.6">
+          加入技术交流群
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="tool-line"></div>
+
+  <div class="mobel tb-wx">
+    <div class="hidemobelBox">
+      <div class="hidemobelBox-content">
+        <img src="/themes/june/img/toolbar/weixin-2.png?version=20.4.6">
+  关注微信
+      </div>
+  </div>
+  </div>
+  <div class="tool-line"></div>
+  <div class="mobel tb-top">
+    <a href="#">
+      </a>
+  </div>
+</div>
+</div>
+<span style="display: none">
+<script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1264603569'%3E%3C/span%3E%3Cscript src='https://s19.cnzz.com/stat.php%3Fid%3D1264603569' type='text/javascript'%3E%3C/script%3E"));</script>
+    </span>
+    
+        
+      </div>
+
+        
+        
+  
+        
+      
+  <div id="login-modal" class="modal" data-url="/login/ajax"></div>
+  <div id="modal" class="modal"></div>
+  <div id="attachment-modal" class="modal"></div>
+
+    
+
+    <script>
+  if (typeof app === 'undefined') {
+      var app = {};
+  }
+  app.version = '20.4.6';
+  app.httpHost = 'https://www.gulixueyuan.com';
+  app.basePath = 'https://www.gulixueyuan.com';
+  app.theme = 'june';
+
+    
+  var CLOUD_FILE_SERVER = ""; 
+
+  app.config = {"api":{"weibo":{"key":"101226163"},"qq":{"key":"101937892"},"douban":{"key":""},"renren":{"key":""}},"loading_img_path":"\/assets\/img\/default\/loading.gif?version=20.4.6"};
+
+  app.arguments = {};
+      
+  app.scripts = null;
+
+  app.fileSingleSizeLimit = 10;
+  app.uploadUrl = '/file/upload';
+  app.imgCropUrl = '/file/img/crop';
+  app.lessonCopyEnabled = '1';
+  app.cloudSdkBaseUri = '';
+  app.cloudDisableLogReport = 0;
+  app.cloudPlayerSdkUrl = '//service-cdn.qiqiuyun.net/js-sdk/sdk-v1.js?16750779';
+  app.cloudPlayServer = '';
+  app.cloudVideoPlayerSdkUrl = '//service-cdn.qiqiuyun.net/js-sdk-v2/sdk-v1.js?16750779';
+  app.cloudOldUploaderSdkUrl = '//service-cdn.qiqiuyun.net/js-sdk/uploader/sdk-v1.js?16750779';
+  app.cloudOldDocumentSdkUrl = '//service-cdn.qiqiuyun.net/js-sdk/document-player/v7/viewer.html?16750779';
+  app.lang = 'zh_CN';
+</script>
+
+<script src="/translations/translator.min.js?version=20.4.6"></script>
+
+  <script src="/translations/zh_CN.js?version=20.4.6"></script>
+
+       <script src="/static-dist/libs/base.js?version=20.4.6"></script>
+        <script src="/static-dist/app/js/common.js?version=20.4.6"></script>
+        <script src="/static-dist/app/js/main.js?version=20.4.6"></script>
+        <script src="/static-dist/libs/echo-js.js?version=20.4.6"></script>
+        <script src="/static-dist/junetheme/js/default/main.js?version=20.4.6"></script>
+        <script src="/static-dist/app/js/default/message/index.js?version=20.4.6"></script>
+  
+<script type="text/javascript">
+  window.seajsBoot && window.seajsBoot();
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 121
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 61,
+      "storeName": "苏通邻里",
+      "addressDetail": "市辖区月季路6号苏通邻里中心102室一层",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 62,
+      "storeName": "启东碧桂街区",
+      "addressDetail": "开发区中邦上海城商业一期13幢一层139室、140室、141室",
+      "pro": "24小时,Wi-Fi,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 63,
+      "storeName": "叠石桥绣女路",
+      "addressDetail": "三星镇星海路2388号121室，107室一层",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 64,
+      "storeName": "海安城市客厅",
+      "addressDetail": "安平中路209号城市客厅购物中心一层105-107号铺位",
+      "pro": "24小时,Wi-Fi,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 65,
+      "storeName": "海安万达",
+      "addressDetail": "高新区钟庄路东侧、黄海大道北侧海安万达广场1019、1020号",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 66,
+      "storeName": "启东凤凰荟",
+      "addressDetail": "开发区中邦上海城商业二期购物中心一层1-004号",
+      "pro": "Wi-Fi,点唱机,店内参观,手机点餐",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 67,
+      "storeName": "海门江海明珠",
+      "addressDetail": "江海中路337号海门大有境江海明珠店商业L1008号",
+      "pro": "Wi-Fi,点唱机",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 68,
+      "storeName": "南通紫琅",
+      "addressDetail": "崇州大道60号紫琅科技城7幢1F-01",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 69,
+      "storeName": "如皋九华",
+      "addressDetail": "如皋市九华镇润华路199号珺临雅居一层南侧01-05铺",
+      "pro": null,
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 70,
+      "storeName": "海门师山广场",
+      "addressDetail": "海门街道解放路北侧海门师山广场一层",
+      "pro": "24小时,Wi-Fi,点唱机",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    }
+  ]
+}

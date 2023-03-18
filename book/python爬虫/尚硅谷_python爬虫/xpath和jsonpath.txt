@@ -1,0 +1,14 @@
+XPath	JSONPath	Description
+/	       $	     表示根元素
+.	       @	     当前元素
+/	     . or []	 子元素
+..	       n/a	     父元素
+//	       ..	     递归下降，JSONPath是从E4X借鉴的。
+*	        *	     通配符，表示所有的元素
+@	       n/a	     属性访问字符
+[]	       []	     子元素操作符
+|	       [,]	     连接操作符在XPath 结果合并其它结点集合。JSONP允许name或者数组索引。
+n/a	[start:end:step]	数组分割操作从ES4借鉴。
+[]	       ?()	     应用过滤表示式
+n/a	       ()	     脚本表达式，使用在脚本引擎下面。
+()	       n/a	     Xpath分组

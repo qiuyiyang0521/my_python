@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+	<title>Qiu Yiyang's Web</title>
+	<link rel="stylesheet" type="text/css" href="css/pages.css">
+	<base target="_blank" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
+	<style>
+		body {
+			background: none;
+		}
+
+		a {
+			color: #ffffff;
+		}
+
+		#header {
+			background-color: black;
+			color: white;
+			text-align: center;
+			padding: 1px;
+			font-size: 15px;
+		}
+
+		#nav {
+			float: left;
+			padding: 5px;
+			background-color: #e7e7e7;
+			color: #000000;
+			line-height: 25px;
+			height: 300px;
+			width: 120px;
+			font-size: 20px;
+			text-align: left;
+		}
+
+		#section {
+			width: 350px;
+			float: left;
+			padding: 10px;
+		}
+
+		#footer {
+			background-color: black;
+			color: white;
+			clear: both;
+			text-align: center;
+			padding: 5px;
+			font-size: 15px;
+		}
+
+		#bottom {
+			position: absolute;
+			width: 100%;
+			height: 50px;
+			background-color: rgba(0, 0, 0, 0.5);
+			text-align: center;
+			line-height: 50px;
+			bottom: 0px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div id="header">
+		<a href="./index.html">
+			<h1>Qiu Yiyang's Web</h1>
+		</a>
+	</div>
+
+	<div id="nav" style="color: #000000;">
+		<a href="./downloads/" style="color: #000000;">downloads</a>
+		<br />
+		<a href="./music.html" style="color: #000000;"">music</a>
+			<br />
+			<a href=" ./image.html" style="color: #000000">image</a>
+		<br />
+		<a href="./WWF.html" style="color: #000000;">WWF</a>
+		<br />
+		<a href="./index_laoban.html" style="color: #000000;">老版主页</a>
+		<br />
+		<a href="./biji/" style="color: #000000;">笔记</a>
+		<br />
+		<a href="./biji/index_laoban.html" style="color: #000000;">老版笔记</a>
+	</div>
+
+	<div id=" #section">
+		<h1>
+			欢迎来到我的网站
+		</h1>
+		<p style="background: #000000;color: #ffffff;">
+			我最喜欢的IDE：<a href="https://code.visualstudio.com" c>VSCode</a>
+		</p>
+	</div>
+
+	<div id="#footer" style="
+				background-color: black;
+				color: white;
+				clear: both;
+				text-align: center;
+				padding: 5px;
+				font-size: 15px;
+			">
+		<a href="https://github.com/qiuyiyang0521/" style="color: #ffffff;">Guthub</a>
+	</div>
+	<div id="bottom">&copy; Copyright 2022-2025 Qiu Yiyang's Web</div>
+
+</body>
+
+</html>

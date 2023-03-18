@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 121
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 91,
+      "storeName": "南通妇幼保健院",
+      "addressDetail": "崇川路58号8幢一层105号",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 92,
+      "storeName": "如皋万达",
+      "addressDetail": "万寿南路998号万达广场1038号",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 93,
+      "storeName": "如皋万达",
+      "addressDetail": "万寿南路998号万达广场1038号",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 94,
+      "storeName": "启东长泰",
+      "addressDetail": "江海产业园江海北路B01地块龙湾新天地广场龙湾市集8#楼一层103号",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 95,
+      "storeName": "启东长泰",
+      "addressDetail": "江海产业园江海北路B01地块龙湾新天地广场龙湾市集8#楼一层103号",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 96,
+      "storeName": "南通会展中心",
+      "addressDetail": "南通体育会展中心消费免停车费1H(83517809)",
+      "pro": "Wi-Fi,点唱机",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 97,
+      "storeName": "南通会展中心",
+      "addressDetail": "南通体育会展中心消费免停车费1H(83517809)",
+      "pro": "Wi-Fi,点唱机",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 98,
+      "storeName": "通州铂金时代",
+      "addressDetail": "金桥路209号通州铂金时代花园3栋一楼1-1",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 99,
+      "storeName": "南通陈桥",
+      "addressDetail": "集美路198号南通天元汇东区一楼A1、A2、A23、A24号",
+      "pro": "Wi-Fi,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 100,
+      "storeName": "南通喜悦汇",
+      "addressDetail": "4-115号港闸区石桥路88号皇家花园24幢一层24-112、24-113、24-114、2",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    }
+  ]
+}

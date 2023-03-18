@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 121
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 41,
+      "storeName": "海门中南城",
+      "addressDetail": "南海路南、张謇大道西侧“海门中南城购物中心”一层",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 42,
+      "storeName": "海门文峰精选",
+      "addressDetail": "江海路115号一层",
+      "pro": "Wi-Fi,精选店",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 43,
+      "storeName": "南通印象城",
+      "addressDetail": "工农南路155号印象城负一层B1-19",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 44,
+      "storeName": "如皋新城吾悦",
+      "addressDetail": "惠政路5号如皋吾悦广场1F-1001-1号",
+      "pro": "Wi-Fi,点唱机",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 45,
+      "storeName": "通州万达",
+      "addressDetail": "高新技术产业开发区朝霞东路198号",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 46,
+      "storeName": "南通竹行肯德基餐厅",
+      "addressDetail": "开发区振兴东路9号",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 47,
+      "storeName": "启东欣乐城",
+      "addressDetail": "人民东路29号欣乐城太平洋百货一层",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 48,
+      "storeName": "文峰城市广场",
+      "addressDetail": "虹桥路1号南通文峰广场一层",
+      "pro": "Wi-Fi",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 49,
+      "storeName": "如皋文峰",
+      "addressDetail": "如城街道中山东路588号如皋文峰城市广场一层",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 50,
+      "storeName": "海安星湖",
+      "addressDetail": "黄海大道（东）29号海安星湖商业中心1#楼",
+      "pro": "Wi-Fi,点唱机,店内参观",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    }
+  ]
+}

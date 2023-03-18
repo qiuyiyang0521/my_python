@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 121
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 11,
+      "storeName": "南通人民",
+      "addressDetail": "人民中路10-1",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,手机点餐",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 12,
+      "storeName": "十字街",
+      "addressDetail": "人民中路72-4号",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 13,
+      "storeName": "南通七彩",
+      "addressDetail": "桃坞路58号",
+      "pro": "24小时,Wi-Fi,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 14,
+      "storeName": "南通通润发",
+      "addressDetail": "人民中路86-1",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 15,
+      "storeName": "如东",
+      "addressDetail": "掘港镇青园北路30号一层亚萍广场一楼",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 16,
+      "storeName": "宁海",
+      "addressDetail": "人民东路2-4号新时代电器楼下",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 17,
+      "storeName": "南大街",
+      "addressDetail": "南大街1号",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 18,
+      "storeName": "如皋西欧国际",
+      "addressDetail": "中山路398号丰乐桥西欧国际广场一层",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 19,
+      "storeName": "通州文峰",
+      "addressDetail": "金沙镇建设路76号通州文峰大世界内",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡,手机点餐",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    },
+    {
+      "rownum": 20,
+      "storeName": "如皋大润发",
+      "addressDetail": "海阳路与福寿路交叉口199号大润发超一楼",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "江苏省",
+      "cityName": "南通市"
+    }
+  ]
+}
