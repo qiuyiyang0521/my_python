@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0edb1b13-f449-4b29-a948-76a392742f12" name="变更" comment="更新">
-      <change afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/066_urllib_handler处理器的基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/067_urllib_代理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/068_urllib_代理池.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/python爬虫/必应搜索.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/python爬虫/爬取免费ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDoS.py" beforeDir="false" afterPath="$PROJECT_DIR$/DDoS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/python爬虫/爬取网页上的图片.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/python爬虫/爬取网页上的图片.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小工具/chromedriver.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +35,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "editor.preferences.import"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\GitHub\my_python" />
@@ -60,7 +49,7 @@
       <recent name="F:\GitHub\my_python\book\python爬虫\尚硅谷_python爬虫" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.062_urllib_ajax的get请求豆瓣电影前10页">
     <configuration name="062_urllib_ajax的get请求豆瓣电影前10页" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,6 +166,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
