@@ -3,7 +3,6 @@
 公鸡五元，母鸡三元，小鸡三个一元
 """
 
-
 def main():
     for gongji in range(0, 101):
         for muji in range(0, 101):
