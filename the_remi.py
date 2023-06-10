@@ -1,30 +1,17 @@
-# -*- coding:utf-8 -*-
-from turtle import width
-from typing import Container
-import remi
+import tkinter as tk
+import time
 
-class MyApp(remi.App):
-    def __init__(self, *args):
-        super(MyApp, self).__init__(*args)
-        self.bt = ""
-        self.lbl = ""
+def update_time():
+    current_time = time.strftime("%H:%M:%S")
+    time_label.config(text=current_time)
+    root.after(1000, update_time) # 每秒更新一次时间
 
-    def main(self):
-        container = remi.gui.VBox(width=300, height=300)
-        self.lbl = remi.gui.Label("Hello world!")
-        self.bt = remi.gui.Button("Press me!")
+root = tk.Tk()
+root.title("时间查看器")
 
-        # setting the listener for the onclick event of the button
-        self.bt.onclick.do(self.on_button_pressed)
+time_label = tk.Label(root, font=("Helvetica", 80))
+time_label.pack()
 
-        container.append(self.lbl)
-        container.append(self.bt)
+update_time()
 
-        return container
-
-    def on_button_pressed(self, widget):
-        self.lbl.set_text('Button pressed!')
-        self.bt.set_text('Hi!')
-
-
-remi.start(MyApp)
+root.mainloop()

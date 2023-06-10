@@ -3,10 +3,41 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0edb1b13-f449-4b29-a948-76a392742f12" name="变更" comment="更新">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/scrapy_baidu_091/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/scrapy_baidu_091/scrapy_baidu_091/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/scrapy_baidu_091/scrapy_baidu_091/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/scrapy_baidu_091/scrapy_baidu_091/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/scrapy_baidu_091/scrapy_baidu_091/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/scrapy_baidu_091/scrapy_baidu_091/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/scrapy_baidu_091/scrapy_baidu_091/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小工具/bilibili自动关注.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小工具/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/081_selenium_交互.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫/081_selenium_交互.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tk.py" beforeDir="false" afterPath="$PROJECT_DIR$/tk.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +60,23 @@
   </component>
   <component name="ProjectId" id="2CSS4VGU1KOHWMcla1DIsp8JwZV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="新增" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "settings.sync"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python/Python39" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitHub\my_python\小工具" />
       <recent name="F:\GitHub\my_python" />
       <recent name="F:\GitHub\my_python\飞机大战\font" />
       <recent name="F:\GitHub\my_python\飞机大战\images" />
@@ -94,14 +129,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="python -m pip list" type="PythonConfigurationType" factoryName="Python">
+      <module name="my_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\GitHub\my_python\webSpiderVenv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/python爬虫/尚硅谷_python爬虫" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="pip" />
+      <option name="PARAMETERS" value="list" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.063_urllib_ajax的post请求肯德基官网" />
         <item itemvalue="Python.062_urllib_ajax的get请求豆瓣电影前10页" />
+        <item itemvalue="Python.063_urllib_ajax的post请求肯德基官网" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="应用程序级" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -196,11 +252,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="提交" />
     <MESSAGE value="更新" />
     <option name="LAST_COMMIT_MESSAGE" value="更新" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="349" key="FileChooserDialogImpl" timestamp="1681010063596">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="534" y="349" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1681010063596" />
+    <state x="271" y="127" key="SettingsEditor" timestamp="1681015764709">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="271" y="127" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1681015764709" />
   </component>
 </project>

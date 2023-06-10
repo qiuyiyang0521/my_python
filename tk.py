@@ -1,1 +1,4 @@
-print('I am 中国人')
+import os
+
+cout = os.system('pip list')
+print(cout)

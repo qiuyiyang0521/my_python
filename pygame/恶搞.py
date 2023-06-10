@@ -26,3 +26,4 @@ while True:
     screen.blit(text, text_rect)
     p.display.flip()
     clock.tick(60)
+
